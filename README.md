@@ -1,2 +1,4 @@
 # python-challenge
-one of my first code in python
+# My First Python Codes
+Here i just codes that i did alone and ia told me im 100% right 
+Im learning so i just use AI to correct me
